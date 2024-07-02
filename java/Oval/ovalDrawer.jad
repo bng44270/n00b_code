@@ -1,0 +1,28 @@
+// Decompiled by DJ v2.3.3.38 Copyright 2000 Atanas Neshkov  Date: 3/11/02 8:05:30 AM
+// Home Page : http//members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   ovalDrawer.java
+
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.Graphics;
+
+public class ovalDrawer extends Applet
+{
+
+    public void paint(Graphics g)
+    {
+        g.setColor(Color.red);
+        g.fillOval(10, 10, 60, 30);
+        g.setColor(Color.blue);
+        g.fillOval(20, 10, 40, 30);
+        g.setColor(Color.orange);
+        g.fillOval(30, 10, 20, 30);
+        g.setColor(Color.green);
+        g.fillOval(35, 20, 10, 10);
+    }
+
+    public ovalDrawer()
+    {
+    }
+}
