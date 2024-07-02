@@ -1,0 +1,9 @@
+Line 58: Class DigiChar.DigiCharCtl of control DecDigit1 was not a loaded control class.
+Line 67: Class DigiChar.DigiCharCtl of control DecDigit2 was not a loaded control class.
+Line 76: Class DigiChar.DigiCharCtl of control HexDigit was not a loaded control class.
+Line 64: The property name _ExtentX in DecDigit1 is invalid.
+Line 65: The property name _ExtentY in DecDigit1 is invalid.
+Line 73: The property name _ExtentX in DecDigit2 is invalid.
+Line 74: The property name _ExtentY in DecDigit2 is invalid.
+Line 82: The property name _ExtentX in HexDigit is invalid.
+Line 83: The property name _ExtentY in HexDigit is invalid.
